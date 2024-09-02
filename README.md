@@ -92,7 +92,7 @@ The motherboard contains multiple functional blocks:
 - Peak Capacitor Voltage Trigger
 - Constant Current PWM Generator
 - Constant Current Limit Compensator & Slope Generator
-- Output Curretn Sensor
+- Output Current Sensor
 - Charger Power Stage
 - Output Stage
 
